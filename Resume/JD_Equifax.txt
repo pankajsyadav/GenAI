@@ -1,0 +1,31 @@
+We are seeking an experienced and driven Business Intelligence expert to architect and scale an industry-leading visualization function. As a P4 Lead, you don’t just build dashboards; you possess a strategic vision for the future of BI and the technical authority to execute it. You have proven experience designing intuitive, UI/UX interfaces that simplify complex data, a deep mastery of data extraction within big data ecosystems, and a passion for translating raw insights into high-stakes business decisions.
+
+As a team lead, you will bridge the gap between technical engineering and executive strategy. This role offers the opportunity to command best-in-class cloud-native technology and work a rich, global big data ecosystem.
+
+  Responsibilities:  
+
+ Drive the visualization roadmap by partnering with business leaders to design, document, and deploy internal and customer-facing insights that tell a compelling, data-driven story 
+ Architect and lead the integration of AI-enabled solutions, proactively identifying opportunities to use Generative AI to automate insights and enhance visual storytelling 
+ Direct a high-performing team of visualization experts, ensuring all deliverables meet the highest standards of functionality, user experience, and technical rigor 
+ Architect scalable data models and define methodologies for the extraction and transformation of big data using SQL and Python to support enterprise-level visualization 
+ Serve as the primary thought leader for data visualization across the organization, institutionalizing new processes that elevate both individual and team performance 
+ Establish enterprise-wide standards and best practices for data access, integration, and visualization within our next-generation big data analytical platforms 
+ Execute high-fidelity wireframes and mockups to align stakeholders on functionality and design vision for critical, high-visibility client projects 
+ Mentor and upskill the BI team, fostering a culture of extreme ownership, continuous technical evolution, and excellence in data storytelling 
+
+  Required Qualifications:  
+
+ BS degree in a STEM major or equivalent discipline 
+ 8–10 years of experience as a BI professional or Data Analyst, with a proven track record of delivering complex, multi-stakeholder projects 
+ Extensive expertise in enterprise BI tools (Looker, Spotfire, Tableau, or Power BI) and the ability to navigate their technical limitations 
+ Extensive experience in SQL is a must, as well as strong working knowledge of Python 
+ Proven experience designing and optimizing production-grade data models to ensure high performance across massive datasets 
+
+  Preferred Qualifications:  
+
+ Master’s degree in a related field is a strong plus 
+ Background in credit risk, financial data analytics or risk modeling 
+ Experience working with large datasets on a big data platform (e.g., Google Cloud, AWS, Snowflake, Hadoop) 
+ Intermediate level understanding and experience with Google Cloud Platforms and overall cloud computing concepts, as well as basic knowledge of other cloud environments 
+ Experience building and maintaining moderately-complex data pipelines, troubleshooting issues, transforming and entering data into a data pipeline in order for the content to be digested and usable for future projects 
+ Demonstrates advanced Git usage and CI/CD integration skills
