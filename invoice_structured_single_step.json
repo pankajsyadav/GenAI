@@ -1,0 +1,59 @@
+{
+  "document_type": "invoice",
+  "invoice_number": "1111",
+  "invoice_date": "2024-06-28",
+  "purchase_order_number": "123456",
+  "seller": {
+    "name": null,
+    "address": "321 Avenue A, Portland, OR 12345",
+    "phone": "(206) 555-1163",
+    "fax": "(206) 555-1164",
+    "email": "someone@websitegoeshere.com"
+  },
+  "buyer": {
+    "name": "Natasha Jones",
+    "company": "Central Beauty",
+    "address": "123 Main St., Manhattan, NY 98765",
+    "phone": "(321) 555-1234",
+    "email": null
+  },
+  "line_items": [
+    {
+      "quantity": 1,
+      "description": "Item Number 1",
+      "unit_price": 2.0,
+      "amount": 2.0,
+      "discount_applied": null
+    },
+    {
+      "quantity": 1,
+      "description": "Item Number 2",
+      "unit_price": 2.0,
+      "amount": 2.0,
+      "discount_applied": null
+    },
+    {
+      "quantity": 1,
+      "description": "Item Number 3",
+      "unit_price": 2.0,
+      "amount": 2.0,
+      "discount_applied": null
+    }
+  ],
+  "subtotal": 6.0,
+  "credit": 1000.0,
+  "tax_rate_percent": 9.8,
+  "tax_amount": null,
+  "additional_discount_percent": 12,
+  "additional_discount_amount": null,
+  "other_discounts": [
+    {
+      "description": "% discount",
+      "percent": 10,
+      "amount": null
+    }
+  ],
+  "balance_due": -994.2,
+  "notes": "If you have any questions concerning this invoice, contact <Name> at <phone or email>. Make all checks payable to <Company name>. Thank you for your business! Items over this amount qualify for an additional discount $100",
+  "currency": "USD"
+}
